@@ -2,7 +2,7 @@
 
 Als Mitwirkende und Verantwortliche dieses Projekts wollen wir eine offene und einladende Gemeinschaft fördern. Daher verpflichten wir uns dazu alle Personen zu respektieren, die zum Projekt beitragen, sei es durch das Anlegen von Issues, dem Veröffentlichen von Feature-Requests, dem Überarbeiten der Dokumentation, dem Vorschlagen von Pull-Requests oder Patches oder durch andere Aktivitäten.
 
-Wir verpflichten uns, die Mitwirkung an diesem Projekt zu einer belästigungsfreien Erfahrung für alle zu machen, unabhängig von Kenntnisstand, Geschlecht, Geschlechtsidentität und -ausdruck, sexueller Orientierung, Behinderung, äußerlicher Erscheinung, Körpermaßen, Rasse, Ethnizität, Alter, Religion oder Nationalität.
+Wir verpflichten uns, die Mitwirkung an diesem Projekt zu einer belästigungsfreien Erfahrung für alle zu machen, unabhängig von Kenntnisstand, Geschlecht, Geschlechtsidentität und -ausdruck, sexueller Orientierung, Behinderung, äußerlicher Erscheinung, Körpermaßen, ethnischer Herkunft und Identität, Alter, Religion oder Nationalität.
 
 Beispiele für nicht akzeptables Verhalten beinhalten:
 
